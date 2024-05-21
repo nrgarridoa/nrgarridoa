@@ -1,3 +1,4 @@
+<!--
 ## 👋 ¡Hola! Soy Nilson Garrido
 
 ### 🛠️ **Desarrollador de Software | Entusiasta de la IA | Innovador Tecnológico | Tranformador Digital para Minería**
@@ -21,7 +22,7 @@
 - **Herramientas y Tecnologías:** Git, GitHub, MySQL, Power BI, Excel.
 
 ---
-<!--
+
 ### 📈 **Proyectos Destacados**
 
 #### 📊 **[Nombre del Proyecto 1]**
@@ -29,7 +30,7 @@ Una breve descripción del proyecto, sus objetivos y tecnologías utilizadas.
 
 #### 🔍 **[Nombre del Proyecto 2]**
 Otra breve descripción de un proyecto, destacando su impacto y las habilidades aplicadas.
--->
+
 
 ---
 
@@ -57,3 +58,4 @@ Estoy constantemente buscando aprender y mejorar mis habilidades. Actualmente, e
 
 ¡Gracias por visitar mi perfil!
 
+-->
